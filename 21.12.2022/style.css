@@ -1,0 +1,15 @@
+div{
+    background-color: rgb(238, 207, 207);
+    width: 100px;
+    text-align: center;
+    padding: 20px;
+    transition-property: all;
+    transition: all 1s linear 0s;
+}
+div:hover{
+    background-color: blueviolet;
+    width: 200px;
+    cursor: pointer;
+    height: 200px;
+    text-align: inherit;
+}

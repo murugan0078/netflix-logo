@@ -1,0 +1,115 @@
+body{
+    background-image: url(wooden.jpg);
+    display: inline-block;
+   
+}
+.design{
+   color: aliceblue;
+   text-decoration: none;
+   width: 900px;
+   margin: 10px;
+   border-radius: 10px;  
+}
+div>select{
+    width: 80px;
+   margin: 40px;
+}
+
+
+
+#a{
+    background-color: rgb(89, 90, 90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 10px;
+    color: white;
+}
+div>input{
+    border-radius: 5px;
+    margin: 15px;
+    height: 19px;
+    
+    
+}
+div>#b{
+    width: 160px;
+    margin-left: 5px;
+}
+#form{
+    color: aliceblue;
+    text-decoration: none;
+    width: 900px;
+    margin: 10px;
+    border-radius: 10px;
+ }
+ #b{
+    background-color: rgb(198,123,90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 10px;
+}
+td>input{
+    border-radius: 5px;
+    margin:0px 10px;
+    height: 25px;
+    width: 180px; 
+}
+#d{
+    margin-right: 10px;
+}
+.form3{
+    color: aliceblue;
+    text-decoration: none;
+    width: 900px;
+    margin: 10px;
+    border-radius: 10px;
+ }
+ #z{
+    background-color: rgb(198,123,90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 10px;
+    
+}
+tr>td{
+    border-radius: 5px;
+    margin:0px 10px;
+    height: 25px;
+    width: 50px; 
+    border-radius: 10px;
+}
+.form4{
+    color: aliceblue;
+    text-decoration: none;
+    width: 900px;
+    margin: 10px;
+    border-radius: 10px;
+ }
+ #y{
+    background-color: rgb(198,123,90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 10px;
+ }
+ .zx{
+    margin: 0px 0px  0px 300px;
+    justify-content: center;
+    background-color: rgb(198,123,90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    background-color: coral;
+ 
+ }
+ .zm{
+    background-color: rgb(198,123,90);
+    border-radius: 0px 10px 0px 10px;
+    padding: 20px;
+    color: aliceblue;
+    background-color: coral;
+    text-decoration: none;
+    text-align: justify;
+ }
+ .yy{
+    margin: 0px 0px 0px 20px;
+
+ }
+
+
